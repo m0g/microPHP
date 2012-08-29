@@ -1,0 +1,1 @@
+<h1><?php echo _('About page') ?></h1>
